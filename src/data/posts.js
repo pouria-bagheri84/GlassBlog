@@ -1,0 +1,81 @@
+export const posts = [
+  {
+    id: 1,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  {
+    id: 2,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  {
+    id: 3,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  {
+    id: 4,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  {
+    id: 5,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  {
+    id: 6,
+    title: "معرفی Glassmorphism در طراحی مدرن",
+    excerpt: "طراحی شیشه‌ای یکی از ترندهای برتر سال 2025 است که زیبایی و عملکرد را ترکیب می‌کند.",
+    content: `...محتوای کامل پست...`,
+    author: "علی رضایی",
+    date: "2025-03-10",
+    category: "طراحی",
+    tags: ["UI", "Glassmorphism", "Tailwind"],
+    image: "./blog.jpg",
+    readTime: "5 دقیقه",
+    featured: true
+  },
+  // ... 5 پست دیگر
+];
